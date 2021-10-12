@@ -4,7 +4,7 @@ body {
   font-family: 'Roboto Mono', monospace;
 }
   .jumbotron {
-    background-image: url("../biodiverse.jpeg");
+    background-image: url("https://github.com/alisakhi1979/bio_diversity/blob/main/biodiverse.jpeg");
     background-size: 100% 100%;
     text-align: center;
     color:cyan;
